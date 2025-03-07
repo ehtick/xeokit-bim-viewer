@@ -2,6 +2,27 @@
 
 # [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-7...v2.5.1-beta-37)
 
+## [2.6.0](https://github.com/ehtick/xeokit-bim-viewer/compare/v2.6.0...v2.6.0) (2025-03-07)
+
+
+### Features
+
+* More vibrant default Selection and Highlight materials ([cdf2cfd](https://github.com/ehtick/xeokit-bim-viewer/commit/cdf2cfd000236a7a78485ce203746e4172f43216))
+* Save and load object X-ray states in BCF ([8669dfe](https://github.com/ehtick/xeokit-bim-viewer/commit/8669dfed318f5271d2bc9f4f11953012402ed190))
+
+
+### Bug Fixes
+
+* build script repair, use of ampersands ([8c6220f](https://github.com/ehtick/xeokit-bim-viewer/commit/8c6220f01a0f2a282c01a80c2f0e104197d19481))
+* build script repair, use of ampersands ([67e5a46](https://github.com/ehtick/xeokit-bim-viewer/commit/67e5a4630ca0fcc72971a2281ce432a07902d1c3))
+* Overlapping Properties ([309cf37](https://github.com/ehtick/xeokit-bim-viewer/commit/309cf3751ebe64c7ec2ff93a38a6f3ccac0b78ee))
+
+
+### Miscellaneous Chores
+
+* release 2.6.0 ([7c2def6](https://github.com/ehtick/xeokit-bim-viewer/commit/7c2def63b3083daf8a0396acecbfb2c9a01532c4))
+* release 2.6.0 ([2635cba](https://github.com/ehtick/xeokit-bim-viewer/commit/2635cba763bf45e78c6a0223d3433bbe8936287a))
+
 ## [2.6.0](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.2-beta-7...v2.6.0) (2025-03-06)
 
 
